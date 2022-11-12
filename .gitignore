@@ -1,0 +1,10 @@
+node_modules
+scss
+*.scss
+*.svg
+!assets/icons/book.svg
+!assets/icons/clock-fill.svg
+!assets/icons/emoji-smile.svg
+!assets/icons/phone-fill.svg
+!assets/icons/laptop-fill.svg
+!assets/icons/graph-up-arrow.svg

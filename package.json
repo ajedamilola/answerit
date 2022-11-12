@@ -1,0 +1,21 @@
+{
+  "name": "answerit-landing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "scss": "sass scss:css --watch --style=compressed",
+    "start": "serve ."
+  },
+  "keywords": [
+    "online examination",
+    "e-examination"
+  ],
+  "author": "Aje Damilola",
+  "license": "ISC",
+  "dependencies": {
+    "aos": "^2.3.4",
+    "bootstrap": "^5.2.0",
+    "bootstrap-icons": "^1.9.1"
+  }
+}
